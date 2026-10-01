@@ -1,0 +1,6 @@
+# generated build products
+os.elf
+fakeroot.c
+disk.img
+*.o
+tests/test_os
